@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# bash for loop
+for f in $( ls *.cpp ); do
+	echo $f
+	cat $f | grep "change lane collisionaaaaaaaaaaaaaaaaaaaaa"
+done 

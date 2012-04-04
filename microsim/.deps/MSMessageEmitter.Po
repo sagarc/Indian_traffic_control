@@ -1,0 +1,3 @@
+MSMessageEmitter.o: MSMessageEmitter.cpp ../../src/config.h
+
+../../src/config.h:

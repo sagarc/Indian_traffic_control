@@ -1,0 +1,39 @@
+pfPSansBold16.o: pfPSansBold16.c ../../../src/config.h polyfonttypes.h \
+ /usr/include/GL/gl.h /usr/include/GL/glext.h \
+ /usr/lib/i386-linux-gnu/gcc/i686-linux-gnu/4.6.1/include/stddef.h \
+ /usr/include/inttypes.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/i386-linux-gnu/gcc/i686-linux-gnu/4.6.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h
+
+../../../src/config.h:
+
+polyfonttypes.h:
+
+/usr/include/GL/gl.h:
+
+/usr/include/GL/glext.h:
+
+/usr/lib/i386-linux-gnu/gcc/i686-linux-gnu/4.6.1/include/stddef.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/predefs.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/lib/i386-linux-gnu/gcc/i686-linux-gnu/4.6.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
